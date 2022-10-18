@@ -1,4 +1,4 @@
-# gulp-dev_WordPress_flocss_SPtoPC
+# gulp-dev_WordPress_flocss_PCtoSP
 
 ## 動作が確認できている環境
 - Nodeバージョン v14.16.0
@@ -24,6 +24,5 @@
 
 ## 備考
 - CSS設計はFLOCSS( https://github.com/hiloki/flocss )を採用
-- スマホファースト
+- PCファースト
 - rem記述を前提
-# gulp-dev_WordPress_FLOCSS_PCtoSP
